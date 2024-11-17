@@ -75,8 +75,7 @@ Want to join the #geekstreak2024 challenge? Start solving problems and share you
 | 1    | Second Largest       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/1.%20Second%20Largest/SecondLargest.java)     |
 | 1    | Move All Zeroes to End        | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java)     |
 | ...  | ...                  | ...                    |
-````
-````
+
 ## 🤝 Contributing
 
 Feel free to fork the repository, open issues, or submit pull requests to suggest improvements! 😊
