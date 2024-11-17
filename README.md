@@ -14,7 +14,7 @@ This repository contains solutions to the problems from the **GeeksforGeeks 160 
 
 - **Structured Directory:** All problems are categorized by topics for easy navigation.
 - **Code Explanations:** Each solution is accompanied by comments to explain the logic.
-- **Languages Used:** Solutions are provided in [list the programming languages you use, e.g., Python, Java, C++]
+- **Languages Used:** Solutions are provided in Java.
 
 ---
 
