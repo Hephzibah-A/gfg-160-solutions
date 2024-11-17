@@ -47,7 +47,7 @@ This repository contains solutions to the problems from the **GeeksforGeeks 160 
 │   │   └── ...
 │   └── ...
 └── README.md
-
+````
 ---
 
 ## 🚀 Getting Started
@@ -57,6 +57,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Hephzibah-A/gfg-160-solutions
 cd gfg-160-solutions
+```
 
 ## 📢 Join the Challenge
 
@@ -72,9 +73,8 @@ Want to join the #geekstreak2024 challenge? Start solving problems and share you
 | Day  | Problem Solved      | Link to Solution       |
 |------|----------------------|------------------------|
 | 1    | Second Largest       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/1.%20Second%20Largest/SecondLargest.java)     |
-| 1    | Move All Zeroes to End        | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java     |
+| 1    | Move All Zeroes to End        | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java)     |
 | ...  | ...                  | ...                    |
-````
 
 ## 🤝 Contributing
 
