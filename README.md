@@ -73,8 +73,8 @@ Want to join the #geekstreak2024 challenge? Start solving problems and share you
 | Day | Problem Solved         | Link to Solution                                                                                                                               |
 | --- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Second Largest         | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/1.%20Second%20Largest/SecondLargest.java)                    |
-| 1   | Move All Zeroes to End | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java) |
-| 2   | Reverse An Array       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/3.%20Reverse%20an%20Array/ReverseArray.java)                 |
+| 2   | Move All Zeroes to End | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java) |
+| 3   | Reverse An Array       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/3.%20Reverse%20an%20Array/ReverseArray.java)                 |
 
 ## 🤝 Contributing
 
