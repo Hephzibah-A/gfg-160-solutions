@@ -6,9 +6,9 @@ public class RotateArray {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(System.out);
 
-        int t = Integer.parseInt(in.readLine().trim());
+        int t = Integer.parseInt(in.readLine().trim()); // Number of test cases
         while (t-- > 0) {
-            String line = in.readLine();
+            String line = in.readLine(); // Read the array line
             String[] tokens = line.split(" ");
             ArrayList<Integer> array = new ArrayList<>();
 
