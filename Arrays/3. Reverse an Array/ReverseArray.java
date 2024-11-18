@@ -1,4 +1,3 @@
-
 import java.io.*;
 public class ReverseArray {
     public static void main(String args[]) throws IOException {
