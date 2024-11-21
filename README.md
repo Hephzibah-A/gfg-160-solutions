@@ -78,6 +78,7 @@ Want to join the #geekstreak2024 challenge? Start solving problems and share you
 | 4   | Rotate Array           | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/4.%20Rotate%20Array/RotateArray.java)                        |
 | 5   | Next Permutation       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/5.%20Next%20Permutation/NextPermutation.java)                |
 | 6   | Majority Element II       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/6.%20Majority%20Element%20II/MajorityElement2.java)                |
+| 7  | Stock Buy and Sell – Multiple Transaction Allowed      | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/7.%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed/StockBuySell.java)                |
 
 ## 🤝 Contributing
 
