@@ -70,18 +70,16 @@ Want to join the #geekstreak2024 challenge? Start solving problems and share you
 
 ## 🏆 My Progress
 
-| Day | Problem Solved         | Link to Solution                                                                                                                               |
-| --- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Second Largest         | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/1.%20Second%20Largest/SecondLargest.java)                    |
-| 2   | Move All Zeroes to End | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java) |
-| 3   | Reverse An Array       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/3.%20Reverse%20an%20Array/ReverseArray.java)                 |
-| 4   | Rotate Array           | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/4.%20Rotate%20Array/RotateArray.java)                        |
-| 5   | Next Permutation       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/5.%20Next%20Permutation/NextPermutation.java)                |
-<<<<<<< HEAD
-=======
-| 6   | Majority Element II       | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/6.%20Majority%20Element%20II/MajorityElement2.java)                |
-| 7  | Stock Buy and Sell – Multiple Transaction Allowed      | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/7.%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed/StockBuySell.java)                |
->>>>>>> 02f9795abcd1c7543c7b979a51b557855840c395
+| Day | Problem Solved                                    | Link to Solution                                                                                                                                                                                    |
+| --- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Second Largest                                    | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/1.%20Second%20Largest/SecondLargest.java)                                                                         |
+| 2   | Move All Zeroes to End                            | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/2.%20Move%20All%20Zeroes%20to%20End/MoveAllZeroesToEnd.java)                                                      |
+| 3   | Reverse An Array                                  | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/3.%20Reverse%20an%20Array/ReverseArray.java)                                                                      |
+| 4   | Rotate Array                                      | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/4.%20Rotate%20Array/RotateArray.java)                                                                             |
+| 5   | Next Permutation                                  | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/5.%20Next%20Permutation/NextPermutation.java)                                                                     |
+| 6   | Majority Element II                               | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/6.%20Majority%20Element%20II/MajorityElement2.java)                                                               |
+| 7   | Stock Buy and Sell – Multiple Transaction Allowed | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/7.%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed/StockBuySell.java)                   |
+| 8   | Stock Buy and Sell – Max one Transaction Allowed  | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/8.%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed/StockBuySellMaxOneTransaction.java) |
 
 ## 🤝 Contributing
 
