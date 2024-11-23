@@ -80,6 +80,7 @@ Want to join the #geekstreak2024 challenge? Start solving problems and share you
 | 6   | Majority Element II                               | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/6.%20Majority%20Element%20II/MajorityElement2.java)                                                               |
 | 7   | Stock Buy and Sell – Multiple Transaction Allowed | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/7.%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed/StockBuySell.java)                   |
 | 8   | Stock Buy and Sell – Max one Transaction Allowed  | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/8.%20Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed/StockBuySellMaxOneTransaction.java) |
+| 9   | Minimize the Heights II                           | [View Solution](https://github.com/Hephzibah-A/gfg-160-solutions/blob/main/Arrays/9.%20Minimize%20the%20Heights%20II/MinimizeHeignts.java)                                                          |
 
 ## 🤝 Contributing
 
