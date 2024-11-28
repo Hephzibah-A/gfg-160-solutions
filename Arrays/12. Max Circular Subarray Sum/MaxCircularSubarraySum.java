@@ -39,7 +39,6 @@ class Solution {
         // Step 4: Return the maximum of non-circular and circular cases
         return Math.max(maxKadane, totalSum - minKadane);
     }
-
     // Helper function to find the maximum subarray sum using Kadane's algorithm
     private int kadane(int[] arr) {
         int maxSoFar = arr[0], maxEndingHere = arr[0];
